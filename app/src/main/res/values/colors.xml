@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="backgroundcolor">#FCFCFC</color>
+    <color name="orangedarken4">#e65100</color>
+    <color name="blue">#2196f3</color>
+    <color name="tealdarken4">#009688</color>
+    <color name="pink">#e91e63</color>
+    <color name="brown">#795548</color>
+
+</resources>
